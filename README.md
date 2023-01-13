@@ -8,3 +8,4 @@ Importação e Tratamento de Bases de dados com Power Query - Atualizando a Base
 Alteração da tabela de vendas 2016 com novos dados
 Alteração da tabela de vendas 2018 com novos dados
 Relacionementos entre tabelas;
+Atualizações entre tabelas;
