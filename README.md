@@ -10,3 +10,4 @@ Alteração da tabela de vendas 2018 com novos dados
 Alteração da Tabela  de vendas 2017 com novos dados
 Relacionementos entre tabelas;
 Atualizações entre tabelas;
+Aplicando DAX;
