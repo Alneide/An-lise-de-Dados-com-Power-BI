@@ -11,3 +11,4 @@ Alteração da Tabela  de vendas 2017 com novos dados
 Relacionementos entre tabelas;
 Atualizações entre tabelas;
 Aplicando DAX;
+Aplicando funções:
