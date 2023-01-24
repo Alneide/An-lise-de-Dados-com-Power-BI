@@ -12,3 +12,4 @@ Relacionementos entre tabelas;
 Atualizações entre tabelas;
 Aplicando DAX;
 Aplicando funções:
+Localizando as lojas  no mapa
